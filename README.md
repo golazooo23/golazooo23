@@ -14,6 +14,14 @@
 - [2021/06/24 Redux/Storeのデータを正規化しパフォーマンスの向上を狙う](https://tech.stmn.co.jp/entry/2021/06/24/163309)
 - [2020/12/21 ジェネリック型で汎用性の高いReactコンポーネントを作成](https://tech.stmn.co.jp/entry/2020/12/21/182743)
 - [2020/10/28 Reactでページネーションを実装](https://tech.stmn.co.jp/entry/2020/10/28/141406)
+
+### 登壇
+- [スタメン & Leaner 共同開催 - 名古屋 React 勉強会](https://stmn.connpass.com/event/299360/)
+
+### Certification
+<img height="100" src="https://user-images.githubusercontent.com/58158037/107533438-48ad8d80-6c02-11eb-9b50-7589e676af34.png" alt="AWS Solutions Architect Associate" style="max-width: 100%;">
+
+
 <!--
 **golazooo23/golazooo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
